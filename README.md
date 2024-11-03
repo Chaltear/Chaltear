@@ -7,6 +7,18 @@ Bienvenue sur mon profil GitHub ! Passionné de développement, je suis toujours
 - **Développement d'applications Android** : J'aime concevoir et coder des applications Android, en créant des expériences mobiles intuitives et performantes.
 - **Open Source** : Contribuer à la communauté est essentiel pour moi. J'aime partager mes projets et apprendre de nouvelles méthodes de développement.
 
+## 🛠️ Skills
+__je maitrise :__  
+
+![My Skills](https://skillicons.dev/icons?i=java,androidstudio,c,css,flask,gradle,html,idea,java,mysql,php,py,vim,vscode,visualstudio&theme=dark&titles=true&perline=5)
+   
+   
+   
+**je connais :**  
+
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,laravel,bootstrap,linux,ocaml,postman,react,symfony,unity,drupal&theme=dark&titles=true&perline=5)
+
+
 ## 💞️ Collaboration
 Je suis ouvert aux collaborations sur des projets en **open source** et **applications android**. Si tu as des idées ou des suggestions, n'hésite pas à me contacter !
 
