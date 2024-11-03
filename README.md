@@ -22,6 +22,7 @@ Je suis ouvert aux collaborations sur des projets en **open source** et **applic
 
 Merci de ta visite ! 🚀 Hâte de partager, collaborer et créer ensemble.
 
-Wah![gura](https://github.com/user-attachments/assets/71ca48e7-d7a8-4623-a5a3-87d6bd02ae87)
+Wah <img src="https://github.com/user-attachments/assets/38ce54ea-278f-4a3c-b6f9-c27cf848c8a6" width="40" height="40">
+
 
 PS: ce README a été fait en partenariat de chatgpt
