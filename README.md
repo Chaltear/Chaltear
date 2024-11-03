@@ -11,7 +11,7 @@ Bienvenue sur mon profil GitHub ! Passionné de développement, je suis toujours
 Je suis ouvert aux collaborations sur des projets en **open source** et **applications android**. Si tu as des idées ou des suggestions, n'hésite pas à me contacter !
 
 ## 📫 Pour me contacter
-- ** Tu peux réver pour avoir les infos personelles **
+- ** Tu peux réver pour avoir mes infos personelles **
 
 ## 😄 Pronoms
 - **Il/Lui** (He/Him)
