@@ -34,4 +34,3 @@ Merci de ta visite ! 🚀 Hâte de partager, collaborer et créer ensemble.
 Wah <img src="https://github.com/user-attachments/assets/38ce54ea-278f-4a3c-b6f9-c27cf848c8a6" width="40" height="40">
 
 
-PS: ce README a été fait en partenariat de chatgpt
