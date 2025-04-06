@@ -16,7 +16,7 @@ __je maitrise :__
 
 ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,laravel,bootstrap,linux,ocaml,postman,react,symfony,unity,drupal&theme=dark&titles=true&perline=5)
 
-## 💞️ Collaboration
+## 💞️ Collaborations
 Je suis ouvert aux collaborations sur des projets en **open source** et **applications android**. Si tu as des idées ou des suggestions, n'hésite pas à me contacter !
 
 ## 📫 Pour me contacter
